@@ -28,5 +28,5 @@ I'm most proficient using R's visualization package <ggplot2>. But you can find 
 ![Types of cyberharrasment in Aguascalientes](https://github.com/RMedina19/mociba/blob/main/04_figuras/04_aguascalientes_sexo_tipo.png)
 
 ## Academic reports
-
+![Homicides trend in Mexican State](https://github.com/RMedina19/visualizations_portfolio/blob/main/01_padeci.png) 
 
