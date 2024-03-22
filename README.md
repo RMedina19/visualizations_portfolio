@@ -2,7 +2,14 @@
 
 Hi! I'm Regina from Mexico. 👩🏽‍💻 Welcome to my visualizations portfolio. You will find some examples of the graphs I've done over the years. 
 
-I'm most proficient using R's visualization package <ggplot2>. But you can find some interactive dashboards I contributed to using Datawrapper: [inflation](https://mexicocomovamos.mx/inflacion/) and [energy](https://mexicocomovamos.mx/cuanta-electricidad-necesitas). 
+- I'm most proficient using R's visualization package `ggplot2`. 
+- I also have experience building interactive dashboards with python (`dash` and `plotly`) and R (`shiny`). 
+- I've also done GIS visualizations with `pydeck`.  
+- You can also find some interactive dashboards I contributed to using Datawrapper: [inflation](https://mexicocomovamos.mx/inflacion/) and [energy](https://mexicocomovamos.mx/cuanta-electricidad-necesitas). 
+
+## MSCAPP Projects 
+A demo of the [Bus Pending](https://github.com/RMedina19/bus_pending) dashboard: 
+![CTA Bus Statistics Dashboard](https://github.com/RMedina19/bus_pending/blob/main/dash_demo.gif)
 
 ## Intersecta 
 ![People in pretrail mandatory detention in Mexico](https://github.com/IntersectaOrg/amicus_scjn_ppo/blob/main/04_figuras/14_personas_en_pp_cuadernos.png)
@@ -17,7 +24,6 @@ I'm most proficient using R's visualization package <ggplot2>. But you can find 
 ![A time series of Mexican Central Bank interest rate](https://github.com/RMedina19/visualizations_portfolio/blob/main/MCV/06_00_tasa_referencia.png)
 ![Investment as a part of GDP in Mexico](https://github.com/RMedina19/visualizations_portfolio/blob/main/MCV/01_04_03_inversion_pib.png)
 ![Employment in Mexico](https://github.com/RMedina19/visualizations_portfolio/blob/main/MCV/02_01_01_tasa_part_eco.png)
-
 
 
 ## Personal projects (Hackathons and Blogposts)  
