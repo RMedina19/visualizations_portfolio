@@ -4,12 +4,15 @@ Hi! I'm Regina from Mexico. 👩🏽‍💻 Welcome to my visualizations portfol
 
 - I'm most proficient using R's visualization package `ggplot2`. 
 - I also have experience building interactive dashboards with python (`dash` and `plotly`) and R (`shiny`). 
-- I've also done GIS visualizations with `pydeck`.  
+- I've also done GIS visualizations with `pydeck` and `QGIS`.  
 - You can also find some interactive dashboards I contributed to using Datawrapper: [inflation](https://mexicocomovamos.mx/inflacion/) and [energy](https://mexicocomovamos.mx/cuanta-electricidad-necesitas). 
 
 ## MSCAPP Projects 
-A demo of the [Bus Pending](https://github.com/RMedina19/bus_pending) dashboard: 
+A demo of the [Bus Pending](https://github.com/RMedina19/bus_pending) dashboard made with `Dash` and `pyedeck`: 
 ![CTA Bus Statistics Dashboard](https://github.com/RMedina19/bus_pending/blob/main/dash_demo.gif)
+
+A map of Chicago Communities access to alternative sources of food made with QGIS
+![A map of Chicago Communities access to alternative sources of food](https://github.com/RMedina19/visualizations_portfolio/blob/main/QGIS/AltFoodMap.png)
 
 ## Intersecta 
 ![People in pretrail mandatory detention in Mexico](https://github.com/IntersectaOrg/amicus_scjn_ppo/blob/main/04_figuras/14_personas_en_pp_cuadernos.png)
